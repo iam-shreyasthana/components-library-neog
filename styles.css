@@ -7,6 +7,12 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+
+hr {
+    margin: 2.5rem 0;
+}
+
  /** Containers **/
 .container {
     padding: 0rem 1rem;
